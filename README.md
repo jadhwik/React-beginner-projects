@@ -12,3 +12,8 @@ Some react projects to skill up.
 
 
 ![Screenshot 2024-03-21 115520](https://github.com/jadhwik/React-beginner-projects/assets/99212318/58e6aa60-72d3-40e2-85fb-ac5f6ceb5b18)
+
+
+3.THIRD PROJECT(WEATHER APP)
+
+![weatherapp1](https://github.com/jadhwik/React-beginner-projects/assets/99212318/301a10f5-401a-4229-9c09-eda3a44e1338)
